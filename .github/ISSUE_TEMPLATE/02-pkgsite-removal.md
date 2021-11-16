@@ -1,6 +1,6 @@
 ---
 name: pkg.go.dev package removal
-desciption: request a package be removed from the documentation site
+about: request a package be removed from the documentation site
 title: x/pkgsite: package removal request for [type path here]
 labels: pkgsite
 

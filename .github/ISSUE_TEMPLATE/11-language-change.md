@@ -1,6 +1,6 @@
 ---
 name: Language Changes
-about:
+about: Changes to the language
 title: proposal: Go 2:
 labels: Proposal Go2 LanguageChange
 

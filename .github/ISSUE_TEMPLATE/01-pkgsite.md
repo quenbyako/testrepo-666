@@ -1,6 +1,6 @@
 ---
 name: pkg.go.dev bug
-description: issues with the documentation sit
+about: issues with the documentation sit
 title: x/pkgsite:
 labels: pkgsite
 
