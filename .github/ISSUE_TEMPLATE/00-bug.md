@@ -2,6 +2,7 @@
 name: General bugs
 about: Generic bug report
 title: "affected/pkg: "
+labels: NeedsInvestigation
 ---
 
 <!--
