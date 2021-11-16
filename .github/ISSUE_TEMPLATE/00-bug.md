@@ -1,7 +1,7 @@
 ---
-name: Bugs
+name: General bugs
 about: Generic bug report
-title: "[affected/pkg]: "
+title: "affected/pkg: "
 ---
 
 <!--
