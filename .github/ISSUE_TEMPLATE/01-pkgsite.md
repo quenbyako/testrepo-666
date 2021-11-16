@@ -1,9 +1,8 @@
 ---
 name: pkg.go.dev bug
 about: issues with the documentation sit
-title: x/pkgsite:
+title: "x/pkgsite: "
 labels: pkgsite
-
 ---
 
 <!--

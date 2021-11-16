@@ -1,9 +1,8 @@
 ---
 name: gopls
 about: Issues with the gopls language server
-title: x/tools/gopls:
+title: "x/tools/gopls: "
 labels: gopls Tools
-
 ---
 
 <!--

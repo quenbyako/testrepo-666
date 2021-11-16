@@ -1,9 +1,8 @@
 ---
 name: Proposals
 about: Notable changes and new external API
-title: proposal: affected/pkg: short description
+title: "proposal: affected/pkg: "
 labels: Proposal
-
 ---
 
 <--

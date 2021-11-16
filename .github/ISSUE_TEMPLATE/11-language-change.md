@@ -1,9 +1,8 @@
 ---
 name: Language Changes
 about: Changes to the language
-title: proposal: Go 2:
+title: "proposal: Go 2: "
 labels: Proposal Go2 LanguageChange
-
 ---
 
 <!--
