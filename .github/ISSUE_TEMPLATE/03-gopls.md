@@ -1,6 +1,6 @@
 ---
-name: gopls Bugs
-about: Issues with the gopls language server
+name: gopls bugs
+about: the gopls language server
 title: "x/tools/gopls: "
 labels: gopls Tools
 ---
@@ -17,10 +17,12 @@ Output of `gopls version` on the command line
 
 ### What did you do?
 
+<!--
 If possible, provide a recipe for reproducing the error.
 A complete runnable program is good.
-A link on play.golang.org is better.
+A link on go.dev/play is better.
 A failing unit test is the best.
+-->
 
 ### What did you expect to see?
 

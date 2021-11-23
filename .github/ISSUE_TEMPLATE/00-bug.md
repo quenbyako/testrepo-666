@@ -1,6 +1,6 @@
 ---
-name: General bugs
-about: Generic bug report
+name: bugs
+about: the go command, standard library, or anything else
 title: "affected/pkg: "
 labels: NeedsInvestigation
 ---
@@ -34,7 +34,7 @@ $ go env
 <!--
 If possible, provide a recipe for reproducing the error.
 A complete runnable program is good.
-A link on play.golang.org is best.
+A link on go.dev/play is best.
 -->
 
 ### What did you expect to see?
