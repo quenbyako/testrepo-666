@@ -1,5 +1,5 @@
 ---
-name: bugs
+name: Bugs
 about: the go command, standard library, or anything else
 title: "affected/pkg: "
 labels: NeedsInvestigation

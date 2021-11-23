@@ -1,5 +1,5 @@
 ---
-name: gopls bugs
+name: Bugs affecting gopls
 about: the gopls language server
 title: "x/tools/gopls: "
 labels: gopls Tools

@@ -1,5 +1,5 @@
 ---
-name: proposals
+name: Proposals
 about: new external API or other notable changes
 title: "proposal: affected/pkg: "
 labels: Proposal

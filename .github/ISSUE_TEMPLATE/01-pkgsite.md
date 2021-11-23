@@ -1,5 +1,5 @@
 ---
-name: pkg.go.dev bugs
+name: Bugs affecting pkg.go.dev
 about: issues with the documentation site
 title: "x/pkgsite: "
 labels: pkgsite
