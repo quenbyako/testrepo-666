@@ -1,8 +1,7 @@
 ---
 name: Bugs
 about: the go command, standard library, or anything else
-title: "affected/pkg: "
-labels: NeedsInvestigation
+title: "affected/package: "
 ---
 
 <!--
@@ -28,6 +27,7 @@ $ go env
 </pre></details>
 
 ### What did you do?
+
 <!--
 If possible, provide a recipe for reproducing the error.
 A complete runnable program is good.
@@ -35,8 +35,11 @@ A link on go.dev/play is best.
 -->
 
 
+
 ### What did you expect to see?
 
 
 
 ### What did you see instead?
+
+

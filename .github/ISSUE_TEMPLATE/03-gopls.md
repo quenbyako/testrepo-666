@@ -15,6 +15,8 @@ Please answer these questions before submitting your issue. Thanks!
 Output of `gopls version` on the command line
 -->
 
+
+
 ### What did you do?
 
 <!--
@@ -24,9 +26,15 @@ A link on go.dev/play is better.
 A failing unit test is the best.
 -->
 
+
+
 ### What did you expect to see?
 
+
+
 ### What did you see instead?
+
+
 
 ### Editor and settings
 
@@ -34,9 +42,13 @@ A failing unit test is the best.
 Your editor and any settings you have configured (for example, your VSCode settings.json file)
 -->
 
+
+
 ### Logs
 
 <!--
 If possible please include gopls logs. Instructions for capturing them can be found here:
 https://github.com/golang/tools/blob/master/gopls/doc/troubleshooting.md#capture-logs
 -->
+
+

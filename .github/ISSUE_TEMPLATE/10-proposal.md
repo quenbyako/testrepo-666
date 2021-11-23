@@ -1,7 +1,7 @@
 ---
 name: Proposals
 about: new external API or other notable changes
-title: "proposal: affected/pkg: "
+title: "proposal: affected/package: "
 labels: Proposal
 ---
 
@@ -9,3 +9,5 @@ labels: Proposal
 Our proposal process is documented here:
 https://go.googlesource.com/proposal
 -->
+
+
