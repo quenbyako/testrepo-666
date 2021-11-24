@@ -1,6 +1,6 @@
 ---
 name: Proposals
-about: new external API or other notable changes
+about: New external API or other notable changes
 title: "proposal: affected/package: "
 labels: Proposal
 ---

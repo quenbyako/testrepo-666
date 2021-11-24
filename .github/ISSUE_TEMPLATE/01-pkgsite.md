@@ -1,6 +1,6 @@
 ---
-name: Bugs affecting pkg.go.dev
-about: issues with the documentation site
+name: Pkg.go.dev bugs or feature requests
+about: Issues or feature requests for the documentation site
 title: "x/pkgsite: "
 labels: pkgsite
 ---
@@ -17,7 +17,7 @@ Please answer these questions before submitting your issue. Thanks!
 
 <!--
 You can find your user agent here:
-https://www.whatismybrowser.com/detect/what-is-my-user-agent
+https://www.google.com/search?q=what+is+my+user+agent
 -->
 
 

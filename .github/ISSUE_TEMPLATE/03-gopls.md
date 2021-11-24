@@ -1,6 +1,6 @@
 ---
-name: Bugs affecting gopls
-about: the gopls language server
+name: Gopls bugs or feature requests
+about: Issues or feature requests for the Go language server (gopls)
 title: "x/tools/gopls: "
 labels: gopls Tools
 ---
@@ -9,12 +9,19 @@ labels: gopls Tools
 Please answer these questions before submitting your issue. Thanks!
 -->
 
-#### gopls version
+### gopls version
 
 <!--
-Output of `gopls version` on the command line
+Output of `gopls -v version` on the command line
 -->
 
+
+
+### go env
+
+<!--
+Output of `go env` on the command line in your workspace directory
+-->
 
 
 ### What did you do?

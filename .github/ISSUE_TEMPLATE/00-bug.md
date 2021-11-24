@@ -1,6 +1,6 @@
 ---
 name: Bugs
-about: the go command, standard library, or anything else
+about: The go command, standard library, or anything else
 title: "affected/package: "
 ---
 
